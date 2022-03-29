@@ -15,7 +15,7 @@
 <hr>
 <p align="center">
     <p>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
-    Hi, I am <b>Ononiwu Maureen Chiamaka</b> 🌟The scripting queen 🌟 <br>
+    Hi, I am <b>Ononiwu Maureen Chiamaka</b> 🌟<em> The scripting queen 👑</em> 🌟 <br>
     A <b>Django web backend developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>budding cloud devops engineer</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp who is <b> interested</b>
     in trying to understand how the computer works <b>foundationally</b>, looking to dive into kernel development. I have started with C.
   
