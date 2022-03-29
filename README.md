@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img alt="banner" src="assets/mine/Smile.png" />
+  <img alt="banner" src="assets/mine/Smile.png" width="5 0px" />
   
-  print (𝐇𝐞𝐥𝐥𝐨 <World<img src="assets/gifs/Earth.gif" width="24px">)! <img src="assets/gifs/Hi.gif" width="30px">
+  print (𝐇𝐞𝐥𝐥𝐨 World<img src="assets/gifs/Earth.gif" width="24px">)! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
 
 <p align="center">
