@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="banner" src="assets/Smile.png" />
+  <img alt="banner" src="assets/mine/Smile.png" />
   
   print (𝐇𝐞𝐥𝐥𝐨 <World<img src="assets/gifs/Earth.gif" width="24px">)! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
@@ -32,15 +32,27 @@
 ## Already Played with 
 [![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Scala Badge](https://img.shields.io/badge/-Scala-black?style=flat&logo=Scala&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Plotly Badge](https://img.shields.io/badge/-Plotly-black?style=flat&logo=Plotly&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Anaconda Badge](https://img.shields.io/badge/-Anaconda-black?style=flat&logo=Anaconda&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Jupyter Badge](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=Jupyter&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![NumPy Badge](https://img.shields.io/badge/-NumPy-black?style=flat&logo=NumPy&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Databricks Badge](https://img.shields.io/badge/-Databricks-black?style=flat&logo=Databricks&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Metabase Badge](https://img.shields.io/badge/-Metabase-black?style=flat&logo=Metabase&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-black?style=flat&logo=Docker&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Kubernetes Badge](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=Kubernetes&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Apache Spark Badge](https://img.shields.io/badge/-ApacheCassandra-black?style=flat&logo=ApacheCassandra&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Apache Cassandra Badge](https://img.shields.io/badge/-animus-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-black?style=flat&logo=Elasticsearch&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Elastic Badge](https://img.shields.io/badge/-Elastic-black?style=flat&logo=Elastic&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Amazon AWS Badge](https://img.shields.io/badge/-AmazonAWS-black?style=flat&logo=AmazonAWS&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 [![Google Cloud Badge](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Google Colab Badge](https://img.shields.io/badge/-GoogleColab-black?style=flat&logo=GoogleColab&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-black?style=flat&logo=Kaggle&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-black?style=flat&logo=Tableau&logoColor=white&link=https://www.linkedin.com/in/animus/)]()
 
 
 <hr>
