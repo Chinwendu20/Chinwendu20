@@ -32,7 +32,7 @@
         </ul>
 <hr>
 
-<b> Already Played with </b>
+## Already Played with 
 ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)
 ![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)
