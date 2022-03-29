@@ -121,10 +121,10 @@
 <p align="center">
 <i><b>Associations/Affiliations</b></i> 
   <br><br>
-  <img align="center" src="assets/techsters.png" width="50px" />&nbsp;
-  <img align="center" src="assets/hng.png" width="50px" />&nbsp;
-  <img align="center" src="assets/Screenshot 2022-03-29 152702.png" width="50px" />&nbsp;
-  <img align="center" src="assets/shecodeafrica.png" width="50px" />&nbsp;
+  <img align="center" src="assets/mine/techsters.png" width="50px" />&nbsp;
+  <img align="center" src="assets/mine/hng.png" width="50px" />&nbsp;
+  <img align="center" src="assets/mine/Screenshot 2022-03-29 152702.png" width="50px" />&nbsp;
+  <img align="center" src="assets/mine/shecodeafrica.png" width="50px" />&nbsp;
 </p>
 
 <hr>
@@ -134,13 +134,13 @@
 <p align = "center">
   <i><b>Profiles:</b></i><br><br>
   <a href="mailto:maureen.ononiwu13@gmail.com">
-    <img align="center" alt="Maureen @Mail" width="50px" src="assets/gmail.svg" />&nbsp;
+    <img align="center" alt="Maureen @Mail" width="50px" src="assets/mine/gmail.svg" />&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/maureen-ononiwu-49b3b212a/">
-    <img align="center" alt="Maureen @LinkedIN" width="50px" src="assets/linkedin.svg" />&nbsp;
+    <img align="center" alt="Maureen @LinkedIN" width="50px" src="assets/mine/linkedin.svg" />&nbsp;
   </a>
   <a href="https://chinwendu-ihunnaya.hashnode.dev/">
-    <img align="center" alt="Hashnode" width="50px" src="assets/hashnode.png" />&nbsp;
+    <img align="center" alt="Hashnode" width="50px" src="assets/mine/hashnode.png" />&nbsp;
   </a>
 </p>
 
