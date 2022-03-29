@@ -46,7 +46,7 @@
 <hr>
 
 <details>
-<summary><b> My Work Project 👇</b></summary>
+<summary><b> My Work Project (open up) 👇</b></summary>
 <table>
   <thead>
     <tr>
