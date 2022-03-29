@@ -15,7 +15,7 @@
 <hr>
 <p align="center">
     <p>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
-    <b>Hi, I am Ononiwu Maureen Chiamaka 🌟The scripting queen 🌟 <br>
+    <b>Hi, I am Ononiwu Maureen Chiamaka 🌟The scripting queen 🌟 <br></b>
     A <b>Django web backend developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>budding cloud devops engineer</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp who is <b> interested</b>
     in trying to understand how the computer works <b>foundationally</b>, looking to dive into kernel development. I have started with C.
   
@@ -25,8 +25,8 @@
 
 <img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
         <ul>
-            <li>🎯 <b>I have solved a number of coding problems earning a three star silver badge</b>: <a href="https://www.hackerrank.com/amaka013">Problem-Solving</a></li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1_bp78pjWlF2df9NZ46DgehQt6i-zRPoS/view?usp=sharing">My Resume</a>.</li>
+            <li>🎯 <b>Problem solving</b>: I have solved a number of coding problems earning a three star <a href="https://www.hackerrank.com/amaka013">silver badge on hackerrank</a></li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1_bp78pjWlF2df9NZ46DgehQt6i-zRPoS/view?usp=sharing">my Resume</a>.</li>
             <li>😄 <b>Fun fact</b>: I love Monopoly board game, Watching TV shows(💻), Reading(📖), Traveling, when funds arrive(🌍).</li>
         </ul>
 <hr>
