@@ -14,12 +14,11 @@
 
 <hr>
 <p align="center">
-  <em>
-    ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+    <p>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
     Hi, I am Ononiwu Maureen Chiamaka 🌟The scripting queen 🌟 <br>
     A <b>Django web backend developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>budding cloud devops engineer</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp,<br>who is <b> interested</b>
     in trying to understand how the computer works <b>foundationally</b>, looking to dive into kernel development. I have started with C.<b>
-  </em>
+  
 </p>
   
 > <img src="assets/gifs/star.gif" width="30px">&nbsp;***Things about me:***
@@ -32,8 +31,7 @@
         </ul>
 <hr>
 
-## Already Played with 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+## ALREADY PLAYED WITH
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)
 ![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)
 ![Pandas Badge](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas&logoColor=white&link=https://www.linkedin.com/in/animus/)
