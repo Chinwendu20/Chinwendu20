@@ -8,7 +8,7 @@
   <em>
     😲My super power is my ability to learn on the job and my curiosity 😲 <br>
     In less than a year of self learning coding, I had written a cross platform script that detects the operating system it is run on and then downloads 
-    specific packages on the host computer. This got me selected as one of the participants of a cloud engineering program organized by the largest commnity of women in tech in Africa (She Code Africa). I also competed amongst several developers across Africa in one of the most competitive and fast-paced internship training programs in Africa (HNG internship) and was trusted along with nine other interns to maintain infrastructure, create deployment pipeline, manage resource utilization for <a href='https://www.zuri.chat/'>zuri chat</a> social platform
+    specific packages on the host computer. This got me selected as one of the participants of a cloud engineering program organized by the largest community of women in tech in Africa (She Code Africa). I also competed amongst several developers across Africa in one of the most competitive and fast-paced internship training programs in Africa (HNG internship) and was trusted along with nine other interns to maintain infrastructure, create deployment pipeline, manage resource utilization for <a href='https://www.zuri.chat/'>zuri chat</a> social platform
   </em>
 </p>
 
@@ -16,7 +16,7 @@
 <p align="center">
     <p>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
     Hi, I am <b>Ononiwu Maureen Chiamaka</b> 🌟<em> The scripting queen 👑</em> 🌟 <br>
-    A <b>Django web backend developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>budding cloud devops engineer</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp who is <b> interested</b>
+    A <b>Django web backend developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>budding Cloud DevOps engineer</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp who is <b> interested</b>
     in trying to understand how the computer works <b>foundationally</b>, looking to dive into kernel development. I have started with C.
   
 </p>
