@@ -4,13 +4,13 @@
   print (𝐇𝐞𝐥𝐥𝐨 World<img src="assets/gifs/Earth.gif" width="24px">)! <img src="assets/gifs/Hi.gif" width="30px">
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <em>
     😲My super power is my ability to learn on the job and my curiosity 😲 <br>
     In less than a year of self learning coding, I had written a cross platform script that detects the operating system it is run on and then downloads 
     specific packages on the host computer. This got me selected as one of the participants of a cloud engineering program organized by the largest community of women in tech in Africa (She Code Africa). I also competed amongst several developers across Africa in one of the most competitive and fast-paced internship training programs in Africa (HNG internship) and was trusted along with nine other interns to maintain infrastructure, create deployment pipeline, manage resource utilization for <a href='https://www.zuri.chat/'>zuri chat</a> social platform
   </em>
-</p>
+</p> -->
 
 <hr>
 <p align="center">
