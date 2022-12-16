@@ -15,9 +15,8 @@
 <hr>
 <p align="center">
     <p>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
-    Hi, I am <b>Ononiwu Maureen Chiamaka</b> 🌟<em> The scripting queen 👑</em> 🌟 <br>
-    A <b>Django web backend developer</b> <img src="assets/gifs/Developer.gif" width="30px"> and a <b>budding Cloud DevOps engineer</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp who is <b> interested</b>
-    in trying to understand how the computer works <b>foundationally</b>, looking to dive into kernel development. I have started with C.
+    Hi, I am <b>Ononiwu Maureen Chiamaka</b> 🌟<em> Babe Chinwendum 👑</em> 🌟 <br>
+    A <b>Software Engineer</b> <img src="assets/gifs/Developer.gif" width="30px"> into <b>Backend and DevOps engineering</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp I love <b> Open Source</b>
   
 </p>
   
@@ -25,6 +24,7 @@
 
 <img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
         <ul>
+           <li>🎯 <b>Open Source</b>: <a href="https://github.com/kubearmor/KubeArmor">Kubeamor</a>, <a href="http://github.com/open-telemetry/opentelemetry-collector">Open Telemetry Collector</a>, <a href="https://github.com/scipy/scipy">Scipy</a></li>
             <li>🎯 <b>Problem solving</b>: I have solved a number of coding problems earning a three star <a href="https://www.hackerrank.com/amaka013">silver badge on hackerrank</a></li>
             <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1_bp78pjWlF2df9NZ46DgehQt6i-zRPoS/view?usp=sharing">my Resume</a>.</li>
             <li>😄 <b>Fun fact</b>: I love Monopoly board game, Watching TV shows(💻), Reading(📖), Traveling, when funds arrive(🌍).</li>
@@ -42,6 +42,9 @@
 ![Git Badge](https://img.shields.io/badge/-Git-black?style=flat&logo=Git&logoColor=white&link=https://www.linkedin.com/in/animus/)
 ![Linux Badge](https://img.shields.io/badge/-Linux-black?style=flat&logo=Linux&logoColor=white&link=https://www.linkedin.com/in/animus/)
 ![Google Cloud Badge](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=GoogleCloud&logoColor=white&link=https://www.linkedin.com/in/animus/)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 <hr>
 
@@ -82,14 +85,14 @@
 
 <hr>
 
-<p align="center">
+<!-- <p align="center">
 <i><b>Associations/Affiliations</b></i> 
   <br><br>
   <img align="center" src="assets/mine/techsters.png" width="50px" />&nbsp;
   <img align="center" src="assets/mine/hng.png" width="50px" />&nbsp;
   <img align="center" src="assets/mine/Screenshot 2022-03-29 152702.png" width="50px" />&nbsp;
   <img align="center" src="assets/mine/shecodeafrica.png" width="50px" />&nbsp;
-</p>
+</p> -->
 
 <hr>
 
