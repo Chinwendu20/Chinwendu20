@@ -49,7 +49,7 @@
 <hr>
 
 <details>
-<summary><b> My Work Project (open up) 👇</b></summary>
+<summary><b> My Work Project (click me) 👇</b></summary>
 <table>
   <thead>
     <tr>
