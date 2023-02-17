@@ -31,6 +31,14 @@
         </ul>
 <hr>
 
+### GitHub Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chinwendu20&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinwendu20&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
 ## ALREADY PLAYED WITH
 ![Python Badge](https://img.shields.io/badge/-Python-black?style=flat&logo=Python&logoColor=white&link=https://www.linkedin.com/in/animus/)
 ![Django Badge](https://img.shields.io/badge/-Django-black?style=flat&logo=Django&logoColor=white&link=https://www.linkedin.com/in/animus/)
