@@ -30,7 +30,11 @@
             <li>😄 <b>Fun fact</b>: I love Monopoly board game, Watching TV shows(💻), Reading(📖), Traveling, when funds arrive(🌍).</li>
         </ul>
 <hr>
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
+<hr>
 ### GitHub Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chinwendu20&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
