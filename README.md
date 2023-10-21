@@ -16,7 +16,7 @@
 <p align="center">
     <p>⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️</p>
     Hi, I am <b>Ononiwu Maureen Chiamaka</b> 🌟<em> Babe Chinwendum 👑</em> 🌟 <br>
-    A <b>Software Engineer</b> <img src="assets/gifs/Developer.gif" width="30px"> into <b>Backend and DevOps engineering</b>&nbsp;<img src="assets/gifs/Designer.gif" width="36px">&nbsp I love <b> Open Source</b>
+    A <b>Software Engineer</b> <img src="assets/gifs/Developer.gif" width="30px"> &nbsp I love <b> Open Source</b>
   
 </p>
   
