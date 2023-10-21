@@ -25,8 +25,6 @@
 <img align="right" width=250px alt="shinchan" src="assets/gifs/shinchan.gif" />
         <ul>
            <li>🎯 <b>Open Source</b>: <a href="https://github.com/kubearmor/KubeArmor">Kubeamor</a>, <a href="http://github.com/open-telemetry/opentelemetry-collector">Open Telemetry Collector</a>, <a href="https://github.com/scipy/scipy">Scipy</a></li>
-            <li>🎯 <b>Problem solving</b>: I have solved a number of coding problems earning a three star <a href="https://www.hackerrank.com/amaka013">silver badge on hackerrank</a></li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1_bp78pjWlF2df9NZ46DgehQt6i-zRPoS/view?usp=sharing">my Resume</a>.</li>
             <li>😄 <b>Fun fact</b>: I love Monopoly board game, Watching TV shows(💻), Reading(📖), Traveling, when funds arrive(🌍).</li>
         </ul>
 <hr>
